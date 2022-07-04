@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Sentencias {
     public static void main(String[] args) {
-        condicionales2();
+        ciclos2();
     }
 
     private static void condicionales() {
